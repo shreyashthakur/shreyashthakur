@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Thakur</h1>
 <h3 align="center">A passionate Backend & Embedded Systems developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently doing **B.CA**
 
 - 📫 How to reach me **shreyashyt1999@gmail.com**
 

@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shreyashthakur
-- 👀 I’m interested in PYTHON
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 Mail to reach me shreyashthakur207@gmail.com
 
 <!---
